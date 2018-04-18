@@ -6,4 +6,4 @@ el formato MarkDown para las tablas.
 | Cedula     | Nombres          | Apellidos          | Correo                     | Usuario GitHub |
 |------------|------------------|--------------------|----------------------------|----------------|
 | 25.633.733 | Luis Eduardo     | Vera Valencia      | veravluis@gmail.com        | veravluis      |
-|            |                  |                    |                            |                |
+| 26.723.399 | Rasec            | Depablos Velandia  | rasecdepablosv@gmail.com   | rasecdepablos  |
